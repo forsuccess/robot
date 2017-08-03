@@ -1,7 +1,7 @@
 {
-	"name": "turing-robot",
+	"name": "robot",
 	"version": "0.2.0",
-	"description": "turing robot",
+	"description": " robot",
 	"main": "index.js",
 	"scripts": {
 		"start": "node bin/chat",
@@ -12,15 +12,13 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/n0ruSh/turing-robot.git"
+		"url": "https://github.com/forsuccess/robot.git"
 	},
-	"bugs": {
-		"url": "https://github.com/n0ruSh/turing-robot/issues"
-	},
+	
 	"keywords": [
 		"turing",
 		"robot"
 	],
-	"author": "n0ruSh",
+	"author": "lyz",
 	"license": "MIT"
 }
