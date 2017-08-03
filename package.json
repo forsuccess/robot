@@ -1,0 +1,26 @@
+{
+	"name": "turing-robot",
+	"version": "0.2.0",
+	"description": "turing robot",
+	"main": "index.js",
+	"scripts": {
+		"start": "node bin/chat",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"bin": {
+		"turing-robot": "./bin/chat.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/n0ruSh/turing-robot.git"
+	},
+	"bugs": {
+		"url": "https://github.com/n0ruSh/turing-robot/issues"
+	},
+	"keywords": [
+		"turing",
+		"robot"
+	],
+	"author": "n0ruSh",
+	"license": "MIT"
+}
