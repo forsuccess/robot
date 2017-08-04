@@ -2,7 +2,7 @@
 ﻿# 安装
 
 ```bash
-npm install turing-robot –g
+npm install robot-lyz –g
 ```
 
 ###2
